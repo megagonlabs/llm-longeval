@@ -1,0 +1,6 @@
+fire
+tqdm
+prettytable
+tenacity
+tiktoken==0.4.0
+openai==0.27.8
